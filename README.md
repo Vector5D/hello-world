@@ -1,5 +1,3 @@
 # hello-world
 
-Hello everyone!
-
-Vector5D here.I like coding very much.
+大家好，我是Vector5D，我热爱编程
